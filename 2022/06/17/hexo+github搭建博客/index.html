@@ -86,7 +86,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字数统计:</span>
-            <span class="post-count">895</span>
+            <span class="post-count">856</span>
         </span>
     </span>
 
@@ -111,14 +111,7 @@
     <div class="article-entry" itemprop="articleBody">
        
   <p>默认一路没出错，报错自行百度</p>
-<h1 id="一、在本地搭建Hexo"><a href="#一、在本地搭建Hexo" class="headerlink" title="一、在本地搭建Hexo"></a>一、在本地搭建Hexo</h1><pre class="mermaid">graph LR
-    A(安装 Node.js) --> C(安装 Hexo)
-    B(安装 Git) --> C(安装 Hexo)
-    C -->D(更换 Hexo 主题)-->E(修改主题配置)
-
-    click A "https://nodejs.org/zh-cn/"
-    click B "https://git-scm.com/"</pre>
-<h2 id="安装-Node-js和Git"><a href="#安装-Node-js和Git" class="headerlink" title="安装 Node.js和Git"></a>安装 Node.js和Git</h2><p>Node.js官网：<a target="_blank" rel="noopener" href="https://nodejs.org/zh-cn/">https://nodejs.org/zh-cn/</a><br>Git官网：<a target="_blank" rel="noopener" href="https://git-scm.com/">https://git-scm.com/</a><br>按默认配置下载安装即可</p>
+<h1 id="一、在本地搭建Hexo"><a href="#一、在本地搭建Hexo" class="headerlink" title="一、在本地搭建Hexo"></a>一、在本地搭建Hexo</h1><h2 id="安装-Node-js和Git"><a href="#安装-Node-js和Git" class="headerlink" title="安装 Node.js和Git"></a>安装 Node.js和Git</h2><p>Node.js官网：<a target="_blank" rel="noopener" href="https://nodejs.org/zh-cn/">https://nodejs.org/zh-cn/</a><br>Git官网：<a target="_blank" rel="noopener" href="https://git-scm.com/">https://git-scm.com/</a><br>按默认配置下载安装即可</p>
 <h2 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h2><p>新建一个文件夹（无中文路径，例 D:\MyBlog），在新建的文件夹中右键选择Git Bash Here打开,复制粘贴下面的命令：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli  # 安装 hexo</span><br><span class="line">hexo init                # 初始化</span><br><span class="line">npm install              # 安装 hexo 依赖</span><br></pre></td></tr></table></figure>
 
@@ -152,7 +145,7 @@
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat /C/Users/Administrator/.ssh/id_rsa.pub</span><br></pre></td></tr></table></figure>
 
 <p>复制输出的公钥，打开GitHub设置（点击自己的头像，选择Settings）<br>选择左边栏的 SSH and GPG keys，点击 New SSH key,<br>Title随意取名，将复制的公钥粘贴到Key中，点击Add SSH key</p>
-<h2 id="发布博客"><a href="#发布博客" class="headerlink" title="发布博客"></a>发布博客</h2><p>在博客根目录下，右键打开Git Bash Here，输入下面命令</p>
+<h2 id="发布博客"><a href="#发布博客" class="headerlink" title="发布博客"></a>发布博客</h2><p>在博客根目录下，右键打开Git Bash Here，输入下面命令，用于安装插件</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git</span><br></pre></td></tr></table></figure>
 
 <p>编辑博客根目录_config.yaml文件(例D:\MyBlog\ _config.yml)，在末尾添加以下内容</p>
