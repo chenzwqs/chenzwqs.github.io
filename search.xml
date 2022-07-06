@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>Edge浏览器扩展</title>
-      <link href="/2022/07/01/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/"/>
-      <url>/2022/07/01/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/</url>
+      <title>AdGuard 广告拦截器</title>
+      <link href="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/"/>
+      <url>/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>扩展名</th><th align="left">描述</th></tr></thead><tbody><tr><td><a href="https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh">AdGuard 广告拦截器</a></td><td align="left">一款无与伦比的广告拦截扩展，用以对抗各式广告与弹窗</td></tr><tr><td><a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd">Tampermonkey</a></td><td align="left">世界上最流行的用户脚本管理器</td></tr><tr><td><a href="https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced">Global Speed Plus</a></td><td align="left">设置视频和音频的默认速度</td></tr><tr><td><a href="https://microsoftedge.microsoft.com/addons/detail/convertio/ncpjiachjgcccbfiganbhheoaappecgn">Convertio</a></td><td align="left">在线将文件从一种格式转换为另一种格式</td></tr><tr><td><a href="https://microsoftedge.microsoft.com/addons/detail/itab%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/inedkoakiaeepjoblbiiipedngonadhn?hl=zh-CN">iTab新标签页</a></td><td align="left">iTab是一个好看好用的自定义卡片式浏览器新标签页扩展</td></tr></tbody></table><h1 id="一、AdGuard-广告拦截器"><a href="#一、AdGuard-广告拦截器" class="headerlink" title="一、AdGuard 广告拦截器"></a>一、AdGuard 广告拦截器</h1><p>1.打开AdGuard广告拦截器扩展安装界面（<a href="https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh">传送门</a>）</p><p>2.点击获取进行安装</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A81.png"></p></div></details><p>3.在弹出的配置 AdGuard 扩展页面中打开前四个设置</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A82.png"></p></div></details><h1 id="二、Tampermonkey（油猴脚本）"><a href="#二、Tampermonkey（油猴脚本）" class="headerlink" title="二、Tampermonkey（油猴脚本）"></a>二、Tampermonkey（油猴脚本）</h1><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>1.打开tampermonkey扩展安装界面（<a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd">传送门</a>）</p><p>2.点击获取进行安装</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A81.png"></p></div></details><h2 id="获取脚本"><a href="#获取脚本" class="headerlink" title="获取脚本"></a>获取脚本</h2><p>1.打开Greasy Fork脚本网站（<a href="https://greasyfork.org/zh-CN">传送门</a>）</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A82.png"></p></div></details><p>2.搜索需要的脚本</p><p>3.安装脚本</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Edge%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A83.png"></p></div></details><p>4.打开需要使用脚本的网站</p><p>5.脚本即可生效使用</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>AdGuard 是快速的、小内存的广告拦截扩展，可高效拦截所有网页上的各种广告！选择所需的 AdGuard 浏览器扩展，您可进行无广告、快速、安全的浏览。</strong></p><p>1.打开AdGuard广告拦截器扩展安装界面（<a href="https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh">传送门</a>）</p><p>2.点击获取进行安装</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A81.png"></p></div></details><p>3.在弹出的配置 AdGuard 扩展页面中打开前四个设置</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A82.png"></p></div></details>]]></content>
       
       
       <categories>
           
-          <category> 电脑相关 </category>
+          <category> Edge浏览器扩展 </category>
           
       </categories>
       
@@ -23,35 +23,16 @@
     
     
     <entry>
-      <title>收藏的网站</title>
-      <link href="/2022/07/01/%E6%94%B6%E8%97%8F%E7%9A%84%E7%BD%91%E7%AB%99/"/>
-      <url>/2022/07/01/%E6%94%B6%E8%97%8F%E7%9A%84%E7%BD%91%E7%AB%99/</url>
+      <title>Tampermonkey（油猴脚本）</title>
+      <link href="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/"/>
+      <url>/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>网站名</th><th align="center">类型</th><th align="left">简介</th></tr></thead><tbody><tr><td><a href="https://www.pexels.com/zh-cn/">pexels</a></td><td align="center">免费图片</td><td align="left">免费素材图片和视频，可以在任何地方使用</td></tr><tr><td><a href="https://convertio.co/zh/">convertio</a></td><td align="center">文件转换器</td><td align="left">Convertio 是可在任何网络浏览器中使用的在线工具</td></tr><tr><td><a href="https://www.runoob.com/">菜鸟教程</a></td><td align="center">编程学习</td><td align="left">菜鸟教程提供了编程的基础技术教程</td></tr><tr><td><a href="https://msdn.itellyou.cn/">i tell you</a></td><td align="center">微软原版软件下载</td><td align="left">可以下载Windows系统镜像和office等</td></tr><tr><td><a href="https://www.gaoding.com/">稿定设计</a></td><td align="center">在线设计</td><td align="left">做图做视频必备，在线设计神器</td></tr><tr><td><a href="https://zh.zlib.life/">Z-Library</a></td><td align="center">电子书下载</td><td align="left">全球最大的数字图书馆</td></tr><tr><td><a href="https://zhutix.com/">致美化</a></td><td align="center">桌面美化</td><td align="left">是国内最专业的桌面美化研究平台</td></tr><tr><td><a href="https://www.67tool.com/">即时工具</a></td><td align="center">工具箱</td><td align="left">致力开发即用即走型在线工具</td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> 电脑相关 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>自用的软件</title>
-      <link href="/2022/07/01/%E8%87%AA%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6/"/>
-      <url>/2022/07/01/%E8%87%AA%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>软件名</th><th align="center">类型</th><th align="left">简介</th></tr></thead><tbody><tr><td><a href="http://www.neatdownloadmanager.com/">Neat Download Manager</a></td><td align="center">下载工具</td><td align="left">是一个免费的互联网下载管理器</td></tr><tr><td><a href="https://sparanoid.com/lab/7z/">7-zip</a></td><td align="center">解压工具</td><td align="left">是一款拥有极高压缩比的开源压缩软件</td></tr><tr><td><a href="https://geekuninstaller.com/download">Geek Uninstaller</a></td><td align="center">卸载工具</td><td align="left">是一个简单但功能强大的软件卸载与清理工具</td></tr><tr><td><a href="https://www.voidtools.com/zh-cn/downloads/">Everything</a></td><td align="center">文件搜索</td><td align="left">基于名称快速定位文件和文件夹</td></tr><tr><td><a href="https://listen1.github.io/listen1/">Listen 1</a></td><td align="center">音乐播放</td><td align="left">可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐等网站的歌曲</td></tr><tr><td><a href="https://github.com/zbezj/HEU_KMS_Activator/releases">HEU KMS Activator</a></td><td align="center">激活工具</td><td align="left">可以完美的激活Windows以及Office的VL版本，无需联网即可一键激活</td></tr><tr><td><a href="https://www.rainmeter.net/">Rainmeter</a></td><td align="center">桌面美化</td><td align="left">允许您在桌面上显示可自定义的皮肤</td></tr><tr><td><a href="https://apps.microsoft.com/store/detail/translucenttb%E6%B1%89%E5%8C%96-by-tpxxn/9N5W18JC9BG2?hl=zh-cn&gl=CN">TranslucentTB 汉化版</a></td><td align="center">桌面美化</td><td align="left">使您可以控制任务栏的外观</td></tr><tr><td><a href="http://www.hellodesk.cn/download.html">ToDesk</a></td><td align="center">远程控制</td><td align="left">作为一款远程控制软件，以免费、稳定和快速著称</td></tr><tr><td><a href="https://getsharex.com/">ShareX</a></td><td align="center">截屏录屏</td><td align="left">屏幕捕获、文件共享和生产力工具</td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<p><strong>Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。</strong></p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>1.打开tampermonkey扩展安装界面（<a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd">传送门</a>）</p><p>2.点击获取进行安装</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A81.png"></p></div></details><h2 id="获取脚本"><a href="#获取脚本" class="headerlink" title="获取脚本"></a>获取脚本</h2><p>1.打开Greasy Fork脚本网站（<a href="https://greasyfork.org/zh-CN">传送门</a>）</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A82.png"></p></div></details><p>2.搜索需要的脚本</p><p>3.安装脚本</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A83.png"></p></div></details><p>4.打开需要使用脚本的网站</p><p>5.脚本即可生效使用</p>]]></content>
       
       
       <categories>
           
-          <category> 电脑相关 </category>
+          <category> Edge浏览器扩展 </category>
           
       </categories>
       
@@ -70,7 +51,7 @@
       
       <categories>
           
-          <category> 电脑相关 </category>
+          <category> Hexo </category>
           
       </categories>
       
