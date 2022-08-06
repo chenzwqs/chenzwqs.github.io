@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Tampermonkey（油猴脚本）</title>
-      <link href="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/"/>
-      <url>/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/</url>
+      <title>AdGuard 广告拦截器</title>
+      <link href="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/"/>
+      <url>/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/</url>
       
-        <content type="html"><![CDATA[<p><strong>Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。</strong></p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>1.打开tampermonkey扩展安装界面（<a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd">传送门</a>）</p><p>2.点击获取进行安装</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A81.png"></p></div></details><h2 id="获取脚本"><a href="#获取脚本" class="headerlink" title="获取脚本"></a>获取脚本</h2><p>1.打开Greasy Fork脚本网站（<a href="https://greasyfork.org/zh-CN">传送门</a>）</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A82.png"></p></div></details><p>2.搜索需要的脚本</p><p>3.安装脚本</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A83.png"></p></div></details><p>4.打开需要使用脚本的网站</p><p>5.脚本即可生效使用</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>AdGuard 是快速的、小内存的广告拦截扩展，可高效拦截所有网页上的各种广告！选择所需的 AdGuard 浏览器扩展，您可进行无广告、快速、安全的浏览。</strong></p><p>1.打开AdGuard广告拦截器扩展安装界面（<a href="https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh">传送门</a>）</p><p>2.点击获取进行安装</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A81.png"></p></div></details><p>3.在弹出的配置 AdGuard 扩展页面中打开前四个设置</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A82.png"></p></div></details>]]></content>
       
       
       <categories>
@@ -23,11 +23,11 @@
     
     
     <entry>
-      <title>AdGuard 广告拦截器</title>
-      <link href="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/"/>
-      <url>/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/</url>
+      <title>Tampermonkey（油猴脚本）</title>
+      <link href="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/"/>
+      <url>/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/</url>
       
-        <content type="html"><![CDATA[<p><strong>AdGuard 是快速的、小内存的广告拦截扩展，可高效拦截所有网页上的各种广告！选择所需的 AdGuard 浏览器扩展，您可进行无广告、快速、安全的浏览。</strong></p><p>1.打开AdGuard广告拦截器扩展安装界面（<a href="https://microsoftedge.microsoft.com/addons/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/pdffkfellgipmhklpdmokmckkkfcopbh">传送门</a>）</p><p>2.点击获取进行安装</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A81.png"></p></div></details><p>3.在弹出的配置 AdGuard 扩展页面中打开前四个设置</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/AdGuard%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A82.png"></p></div></details>]]></content>
+        <content type="html"><![CDATA[<p><strong>Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。</strong></p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>1.打开tampermonkey扩展安装界面（<a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd">传送门</a>）</p><p>2.点击获取进行安装</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A81.png"></p></div></details><h2 id="获取脚本"><a href="#获取脚本" class="headerlink" title="获取脚本"></a>获取脚本</h2><p>1.打开Greasy Fork脚本网站（<a href="https://greasyfork.org/zh-CN">传送门</a>）</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A82.png"></p></div></details><p>2.搜索需要的脚本</p><p>3.安装脚本</p><details class="toggle"><summary class="toggle-button" style>查看图片</summary><div class="toggle-content"><p><img src="/2022/07/01/Tampermonkey%EF%BC%88%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%EF%BC%89/tampermonkey%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A83.png"></p></div></details><p>4.打开需要使用脚本的网站</p><p>5.脚本即可生效使用</p>]]></content>
       
       
       <categories>
