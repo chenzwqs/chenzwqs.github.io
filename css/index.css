@@ -1466,7 +1466,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #00c4b6;
+  background: #f88;
   color: #f7f7f7;
 }
 button {
@@ -2801,7 +2801,7 @@ h1.page-title + .tag-cloud-list {
   color: #f88;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #83cbac;
+  background: #f88;
   color: #fff;
 }
 #aside-content :only-child > .card-widget {
